@@ -1,7 +1,7 @@
 # Standalone C++ Autograder
 Autograder to grade single and multiple C++ Program Submissions
 ##Autograder and Related Files
-The autograder (python programs) and Sample Programs (Soltuion, Test cases, and sample program submitted by students) are available for download. Please note that the .tar.gz file is the updated version dated, <font color="red">06 October 2015, 1230hrs</font>. Incase, you have an earlier version, it is advisable to download the latest one.
+The autograder and Sample Programming Assignment (Soltuion, Test cases, and programs submitted by students) are available for download. Please note that the .tar.gz file is the updated version dated, <font color="red">06 October 2015, 1230hrs</font>. Incase, you have an earlier version, it is advisable to download the latest one.
 
 
 ## Structure
