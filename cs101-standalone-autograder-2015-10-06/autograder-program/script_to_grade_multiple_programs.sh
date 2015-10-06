@@ -1,0 +1,1 @@
+./batch_eval_assign.py -r ../multiple/solutions/2015-05-28/reference.cpp -s ../multiple/submissions/2015-05-28 -i ../multiple/solutions/2015-05-28/testcases/input1,../multiple/solutions/2015-05-28/testcases/input2,../multiple/solutions/2015-05-28/testcases/input3 -f 5 -t 10 -o ../multiple/scores.csv > ../multiple/log.log
