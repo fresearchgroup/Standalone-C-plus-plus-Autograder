@@ -17,9 +17,9 @@ The structure/hierarchy of the .tar.gz is given below
 </ol>
 <li> <b>single</b> Folder: Containing the following files. This structure should be used only to grade single programming files
 <ol>
-<li>input1, input2, input3: Test Cases
-<li>reference.cpp: Solution Program
-<li>sample-submissions-by-students: Contains multiple .cpp files
+<li> input1, input2, input3: Test Cases
+<li> reference.cpp: Solution Program
+<li> sample-submissions-by-students: Contains multiple .cpp files
 </ol>
 <li> <b>multiple</b> Folder: Containing the following files. This structure should be used only to grade multiple programming files at once
 <ol>
