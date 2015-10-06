@@ -504,4 +504,4 @@ if __name__ == "__main__":
                                                sys.stdout, sys.stderr)
 
     score = sum(block_score_list)
-    print "\nTotal Score : %.2f\n" % score
+    print "\nTotal Score : %.2f" % score
