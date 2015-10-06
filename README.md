@@ -31,7 +31,7 @@ The structure/hierarchy of the .tar.gz is given below
 <li>testcases folder: Containing input test cases
 </ol>
 </ol>
-<li>submssions Folder: Containing the following
+<li>submissions Folder: Containing the following
 <ol>
 <li>Date Folder: Containing the following
 <ol>
