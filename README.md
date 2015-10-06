@@ -43,7 +43,7 @@ The structure/hierarchy of the .tar.gz is given below
 </ol>
 
 <pre>
-<b><sub>
+<b>
                                  cs101-standalone-autograder-2015-10-06
                ___________________________________________________|___________________________________
               |                    |                                                                  | 
@@ -69,7 +69,7 @@ The structure/hierarchy of the .tar.gz is given below
                                                                                input2
                                                                                input3
 
-</sub></b>
+</b>
 
 </pre>
 
