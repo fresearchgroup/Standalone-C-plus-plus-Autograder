@@ -42,7 +42,7 @@ The structure/hierarchy of the .tar.gz is given below
 
 <pre>
 <b><sub>
-                                 cs101-standalone-autograder-2015-05-28
+                                 cs101-standalone-autograder-2015-10-06
                ___________________________________________________|___________________________________
               |                    |                                                                  | 
     autograder-program          single                                                           multiple 
